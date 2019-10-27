@@ -1,4 +1,4 @@
-# rfid
+# RFID
 Tutorial arduino membaca e-KTP
 
 Pin	Wiring RFID to Arduino 
