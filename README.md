@@ -1,8 +1,8 @@
 # RFID
 Tutorial arduino membaca e-KTP
 
-Pin	Wiring RFID to Arduino 
-SDA	  Digital 10
+Pin	Wiring RFID to Arduino \n
+SDA	  Digital 10\n
 SCK	  Digital 13
 MOSI	Digital 11
 MISO	Digital 12
